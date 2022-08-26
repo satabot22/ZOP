@@ -33,7 +33,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['989175142780'] //ur مالک ربات 
 global.ownername = "SATA" //ur تیم ساتا
-global.ytname = "https://chat.whatsapp.com/F54eghVKahu00gwHoBDVTu" //ur کانال پشتیبانی
+global.ytname = "wa.me/989175142780" //ur پشتیبانی
 global.socialm = "GitHub: SATA" //ur github or insta name
 global.location = "India, Kerala, Kottayam" //ur location
 
