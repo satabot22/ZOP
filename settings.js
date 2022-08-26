@@ -31,23 +31,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['919895802105'] //ur owner number
-global.ownername = "AMRUSER" //ur owner name
+global.vcardowner = ['989175142780'] //ur owner number
+global.ownername = "SATA" //ur owner name
 global.ytname = "YT: DRON" //ur yt chanel name
 global.socialm = "GitHub: AMRUSIR" //ur github or insta name
 global.location = "India, Kerala, Kottayam" //ur location
 
 //bot bomdy 
-global.owner = ['919895802105']
-global.ownertag = '919895802105' //ur tag number
-global.botname = 'AMRU-SER-MD' //ur bot name
+global.owner = ['989175142780']
+global.ownertag = '989175142780' //ur tag number
+global.botname = 'SATA-SER-MD' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
-global.botscript = 'https://github.com/AMRUSIR/AMRU-SER-MD' //script link
+global.botscript = 'WA.ME/989175142780' //script link
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "AMRU-SER" //ur sticker watermark packname
-global.author = "AMRU-SER-MD" //ur sticker watermark author
+global.packname = "SATA-SER" //ur sticker watermark packname
+global.author = "SATA-SER-MD" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -56,7 +56,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['919895801205'] //ur premium numbers
+global.premium = ['989175142780'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -82,7 +82,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'انجام شد',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
@@ -91,7 +91,7 @@ global.mess = {
     bot: 'This Feature Is Only For Bot',
     wait: 'In process...',
     linkm: 'Where is the link?',
-    error: 'Error!!',
+    error: 'خطا',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
