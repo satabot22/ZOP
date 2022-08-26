@@ -33,21 +33,21 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['989175142780'] //ur مالک ربات 
 global.ownername = "SATA" //ur تیم ساتا
-global.ytname = "YT: DRON" //ur yt chanel name
+global.ytname = "https://chat.whatsapp.com/F54eghVKahu00gwHoBDVTu" //ur کانال پشتیبانی
 global.socialm = "GitHub: SATA" //ur github or insta name
 global.location = "India, Kerala, Kottayam" //ur location
 
 //bot bomdy 
 global.owner = ['989175142780']
 global.ownertag = '989175142780' //ur tag number
-global.botname = 'SATA-SER-MD' //ur bot name
+global.botname = 'SATA-SER-MD' //ur نام ربات
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
-global.botscript = 'WA.ME/989175142780' //مالک ربات 
+global.botscript = 'https://wa.me/989175142780' //مالک ربات 
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "SATA-SER" //ur sticker watermark packname
-global.author = "SATA-SER-MD" //ur sticker watermark author
+global.packname = "SATA" //ur sticker watermark packname
+global.author = "SATA-MD" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
